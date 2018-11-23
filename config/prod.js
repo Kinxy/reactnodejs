@@ -6,4 +6,3 @@ module.exports = {
   cookieKey: process.env.COOKIE_KEY
 };
 
-mongodb: //zachwalker:Admin1@ds247310.mlab.com:47310/udemy_dev
